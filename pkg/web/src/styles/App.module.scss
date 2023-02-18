@@ -1,0 +1,23 @@
+.display {
+  height: 100%;
+  overflow: hidden;
+}
+
+.textarea {
+  width: 100%;
+  height: 100%;
+  resize: none;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: inherit;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+.tree {
+  width: 100%;
+  height: 100%;
+  background-color: #e9e9e9;
+}
